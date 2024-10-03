@@ -1,4 +1,4 @@
-import mongoose from "mongoose";
+import mongoose from "./ferreteria.js";
 
 const carshopSchema = new mongoose.Schema({
   date_creation: {
